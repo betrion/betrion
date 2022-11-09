@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dean
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Javascript, CSS and HTML.
+- 🌱 I’m currently learning Javascript, React, CSS and HTML.
 
 
 <!---
